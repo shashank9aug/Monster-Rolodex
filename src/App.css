@@ -13,3 +13,9 @@ body {
   );
   text-align: center;
 }
+
+.app-title{
+  color: yellow;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
